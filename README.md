@@ -1,0 +1,2 @@
+# schoolinfo
+My first Repository
